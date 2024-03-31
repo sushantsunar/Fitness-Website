@@ -11,7 +11,7 @@ html,body{
     scroll-behavior: smooth;
 }
 .Home {
-    background-image: url(./fitness\ website/fitness/pexels-victor-freitas-791763.jpg);
+    background-image: url(./fitness/pexels-victor-freitas-791763.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100dvh;
