@@ -11,7 +11,7 @@ html,body{
     scroll-behavior: smooth;
 }
 .Home {
-    background-image: url(/fitness/pexels-victor-freitas-791763.jpg);
+    background-image: url(../fitness\ website/fitness/pexels-victor-freitas-791763.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100dvh;
@@ -271,27 +271,27 @@ border-radius: 3rem;
     height: 450px;
     background-position-x: center;
     background-size: cover;
-    background-image: url(/fitness/personal\ training.jpg);
+    background-image: url(./fitness/personal\ training.jpg);
 }
 .classes-container .items:nth-child(2){
     height: 450px;
     overflow-y: hidden;
     background-size: cover;
-    background-image: url(/fitness/physical\ training.jpg);
+    background-image: url(./fitness/physical\ training.jpg);
     background-position-x: center;
 }
 .classes-container .items:nth-child(3){
     height: 450px;
    overflow-y: hidden;
     background-size: cover;
-    background-image: url(/fitness/group\ Training.PNG);
+    background-image: url(./fitness/group\ Training.PNG);
     background-position-x: center;
 }
 .classes-container .items:nth-child(4){
     height: 450px;
     overflow-y: hidden;
     background-size: cover;
-    background-image: url(/fitness/digital\ training.PNG);
+    background-image: url(./fitness/digital\ training.PNG);
     background-position-x: -89px;
 }
 
